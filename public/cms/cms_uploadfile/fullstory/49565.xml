@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="https://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>www.samachar4media.com (Fullstory)</title>
+    <description>Media News, Advertising News, Media Industry Updates – Samachar4media</description>
+    <language>hi</language>
+    <copyright>Copyright @ 2008 samachar4media Media Private Limited. All rights reserved</copyright>
+    <atom:link href="https://storage.googleapis.com/media-news/rss/49565.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>testing rss 222222222222</title>
+      <author>S4M Online Bureau</author>
+      <pubDate>20/02/2019</pubDate>
+      <description>&lt;p&gt;testing rss 222222222222testing rss 222222222222testing rss 222222222222testing rss 222222222222testing rss 222222222222&lt;/p&gt;</description>
+      <storyimages>https://storage.googleapis.com/media-news/49565-kapil-sibal.jpg</storyimages>
+      <guid>49565</guid>
+    </item>
+  </channel>
+</rss>
