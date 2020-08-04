@@ -1,0 +1,9 @@
+/storage/framework/cache/
+/storage/framework/sessions/
+/storage/framework/views/
+/storage/logs/
+/storage/logs/*.*
+.env
+/*.env
+/public/
+/routes/web.php
