@@ -1,0 +1,19 @@
+[0917/191325.799:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1001/141141.171:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1001/141141.171:ERROR:cache_util.cc(134)] Unable to move cache folder C:\Users\Bharat\AppData\Local\Temp\cep_cache\PHXS_19.1.6_com.adobe.ccx.fnft\GPUCache to C:\Users\Bharat\AppData\Local\Temp\cep_cache\PHXS_19.1.6_com.adobe.ccx.fnft\old_GPUCache_000
+[1001/141141.171:ERROR:disk_cache.cc(132)] Unable to create cache
+[1001/141141.171:ERROR:shader_disk_cache.cc(542)] Shader Cache Creation failed: -2
+[1001/141144.027:ERROR:connection.cc(1947)] DOMStorageDatabase sqlite error 8, errno 0: attempt to write a readonly database, sql: INSERT INTO ItemTable VALUES (?,?)
+[1001/141144.027:ERROR:connection.cc(1947)] DOMStorageDatabase sqlite error 8, errno 0: attempt to write a readonly database, sql: INSERT INTO ItemTable VALUES (?,?)
+[1001/141144.577:ERROR:connection.cc(1947)] Cookie sqlite error 8, errno 0: attempt to write a readonly database, sql: DELETE FROM cookies WHERE persistent != 1
+[1010/124854.779:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1026/135306.619:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1029/183428.762:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1029/183428.792:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1029/183428.792:ERROR:cache_util.cc(134)] Unable to move cache folder C:\Users\Bharat\AppData\Local\Temp\cep_cache\PHXS_19.1.6_com.adobe.ccx.fnft\GPUCache to C:\Users\Bharat\AppData\Local\Temp\cep_cache\PHXS_19.1.6_com.adobe.ccx.fnft\old_GPUCache_000
+[1029/183428.792:ERROR:disk_cache.cc(132)] Unable to create cache
+[1029/183428.792:ERROR:shader_disk_cache.cc(542)] Shader Cache Creation failed: -2
+[1029/183434.562:ERROR:connection.cc(1947)] DOMStorageDatabase sqlite error 8, errno 0: attempt to write a readonly database, sql: INSERT INTO ItemTable VALUES (?,?)
+[1029/183434.563:ERROR:connection.cc(1947)] DOMStorageDatabase sqlite error 8, errno 0: attempt to write a readonly database, sql: INSERT INTO ItemTable VALUES (?,?)
+[1029/183434.805:ERROR:connection.cc(1947)] Cookie sqlite error 8, errno 0: attempt to write a readonly database, sql: DELETE FROM cookies WHERE persistent != 1
+[1029/183439.959:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /search/
+
+Sitemap: https://www.samachar4media.com/sitemap.xml
+Sitemap: https://www.samachar4media.com/google-news-sitemap.xml
+Sitemap: https://www.samachar4media.com/category-sitemap.xml
+
+
+

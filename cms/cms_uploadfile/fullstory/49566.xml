@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="https://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>www.samachar4media.com (Fullstory)</title>
+    <description>Media News, Advertising News, Media Industry Updates – Samachar4media</description>
+    <language>hi</language>
+    <copyright>Copyright @ 2008 samachar4media Media Private Limited. All rights reserved</copyright>
+    <atom:link href="https://storage.googleapis.com/media-news/rss/49566.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>testing rss 33333333333</title>
+      <author>S4M Online Bureau</author>
+      <pubDate>20/02/2019</pubDate>
+      <description>&lt;p&gt;testing rss 33333333333testing rss 33333333333testing rss 33333333333testing rss 33333333333testing rss 33333333333testing rss 33333333333testing rss 33333333333testing rss 33333333333&lt;/p&gt;</description>
+      <storyimages>https://storage.googleapis.com/media-news/49566-arnav.jpg</storyimages>
+      <guid>49566</guid>
+    </item>
+  </channel>
+</rss>
